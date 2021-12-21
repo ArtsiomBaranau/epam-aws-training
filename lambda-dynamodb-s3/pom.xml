@@ -34,11 +34,6 @@
             <artifactId>aws-java-sdk-dynamodb</artifactId>
             <version>1.12.129</version>
         </dependency>
-<!--        <dependency>-->
-<!--            <groupId>com.github.xmlet</groupId>-->
-<!--            <artifactId>htmlflow</artifactId>-->
-<!--            <version>3.8</version>-->
-<!--        </dependency>-->
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
